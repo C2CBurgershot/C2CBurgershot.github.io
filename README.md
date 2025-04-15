@@ -1,4 +1,4 @@
-<h1>RestaurantWebsite | A Simple Restaurant Website using PHP & MYSQL</h1>
+<h1>BurgerShot Website | A Simple Restaurant Website using PHP & MYSQL</h1>
 <h2>Online Food Ordering and Table Reservation</h2>
 <hr>
 <div>
@@ -13,26 +13,13 @@
 </div>
 <hr>
 <div>
-	<h3>Website DEMO</h3>
+	<h3>Website Login</h3>
   	<ul>
-		<li>https://www.youtube.com/watch?v=K5KtjIR-9ts&ab_channel=IdrissJairi</li>
-		<li>Admin Login Page: http://localhost/restaurant-website-php-mysql/admin/</li>
+		<li>Admin Login Page:</li>
 	</ul>
 	<p>
-		Username: admin_user
+		Username:
 		<br>
-		Password: 123456789
+		Password:
 	</p>
 </div>
-<hr>
-<div>
-	<h3>Installation</h3>
-  	<ol>
-		<li>Download the files + database file (.sql)</li>
-		<li>Create new database with the name "restaurant_website" and then Import the SQL file downloaded </li>
-		<li>Check the files connect.php to make sure that everything is working</li>
-		<li>The website is ready to use</li>
-		<li>Feel free to edit the missing parts or the existing parts</li>
-	</ol>
-</div>
-<p>Questions and Clarifications: If you have any questions feel free to contact me: https://www.facebook.com/jairiidriss/</p>
